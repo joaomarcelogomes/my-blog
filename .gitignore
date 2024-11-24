@@ -26,3 +26,4 @@
 .env
 .env.test
 composer.lock
+public/uploads/
